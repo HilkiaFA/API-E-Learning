@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\models\\scores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\models\\scores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\controllers\\answerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\controllers\\answerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\models\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\models\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\models\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\models\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\controllers\\quizzescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\controllers\\quizzescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\models\\quizzes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\models\\quizzes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\controllers\\modulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\controllers\\modulescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,32 +51,12 @@
       "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\models\\scores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\models\\scores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\models\\quizzes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\models\\quizzes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\models\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\models\\questions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\models\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\models\\answers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|solutionrelative:e-learning quiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56D1EA5D-B5BA-477E-8785-F1F19CC2134D}|E-Learning Quiz\\E-Learning Quiz.csproj|c:\\users\\asust\\source\\repos\\e-learning quiz\\e-learning quiz\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,46 +98,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ModulesController.cs",
-              "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\ModulesController.cs",
-              "RelativeDocumentMoniker": "E-Learning Quiz\\Controllers\\ModulesController.cs",
-              "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\ModulesController.cs",
-              "RelativeToolTip": "E-Learning Quiz\\Controllers\\ModulesController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "E-Learning Quiz\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "E-Learning Quiz\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAIwGgBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T08:49:33.142Z",
+              "WhenOpened": "2025-11-08T14:37:03.567Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CoursesController.cs",
-              "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\CoursesController.cs",
-              "RelativeDocumentMoniker": "E-Learning Quiz\\Controllers\\CoursesController.cs",
-              "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\CoursesController.cs",
-              "RelativeToolTip": "E-Learning Quiz\\Controllers\\CoursesController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA1wOwAAAAAAAAAAAAAAA==",
+              "Title": "ScoresController.cs",
+              "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\ScoresController.cs",
+              "RelativeDocumentMoniker": "E-Learning Quiz\\Controllers\\ScoresController.cs",
+              "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\ScoresController.cs",
+              "RelativeToolTip": "E-Learning Quiz\\Controllers\\ScoresController.cs",
+              "ViewState": "AgIAABkBAAAAAAAAAAAswBUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T08:34:40.057Z",
+              "WhenOpened": "2025-11-08T14:26:24.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Answers.cs",
               "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Models\\Answers.cs",
               "RelativeDocumentMoniker": "E-Learning Quiz\\Models\\Answers.cs",
               "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Models\\Answers.cs",
               "RelativeToolTip": "E-Learning Quiz\\Models\\Answers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T07:22:26.536Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Courses.cs",
               "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Models\\Courses.cs",
               "RelativeDocumentMoniker": "E-Learning Quiz\\Models\\Courses.cs",
@@ -134,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "Modules.cs",
               "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Models\\Modules.cs",
               "RelativeDocumentMoniker": "E-Learning Quiz\\Models\\Modules.cs",
@@ -147,28 +163,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Questions.cs",
-              "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Models\\Questions.cs",
-              "RelativeDocumentMoniker": "E-Learning Quiz\\Models\\Questions.cs",
-              "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Models\\Questions.cs",
-              "RelativeToolTip": "E-Learning Quiz\\Models\\Questions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Program.cs",
+              "RelativeDocumentMoniker": "E-Learning Quiz\\Program.cs",
+              "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Program.cs",
+              "RelativeToolTip": "E-Learning Quiz\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T07:18:39.074Z",
+              "WhenOpened": "2025-11-08T08:06:08.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "QuizzesController.cs",
+              "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\QuizzesController.cs",
+              "RelativeDocumentMoniker": "E-Learning Quiz\\Controllers\\QuizzesController.cs",
+              "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\QuizzesController.cs",
+              "RelativeToolTip": "E-Learning Quiz\\Controllers\\QuizzesController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T09:13:11.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Quizzes.cs",
               "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Models\\Quizzes.cs",
               "RelativeDocumentMoniker": "E-Learning Quiz\\Models\\Quizzes.cs",
               "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Models\\Quizzes.cs",
               "RelativeToolTip": "E-Learning Quiz\\Models\\Quizzes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T07:17:41.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnswersController.cs",
+              "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\AnswersController.cs",
+              "RelativeDocumentMoniker": "E-Learning Quiz\\Controllers\\AnswersController.cs",
+              "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\AnswersController.cs",
+              "RelativeToolTip": "E-Learning Quiz\\Controllers\\AnswersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T14:23:50.009Z",
               "EditorCaption": ""
             },
             {
@@ -179,53 +221,79 @@
               "RelativeDocumentMoniker": "E-Learning Quiz\\Models\\Scores.cs",
               "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Models\\Scores.cs",
               "RelativeToolTip": "E-Learning Quiz\\Models\\Scores.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T07:16:05.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
+              "Title": "ModulesController.cs",
+              "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\ModulesController.cs",
+              "RelativeDocumentMoniker": "E-Learning Quiz\\Controllers\\ModulesController.cs",
+              "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\ModulesController.cs",
+              "RelativeToolTip": "E-Learning Quiz\\Controllers\\ModulesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T08:49:33.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Questions.cs",
+              "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Models\\Questions.cs",
+              "RelativeDocumentMoniker": "E-Learning Quiz\\Models\\Questions.cs",
+              "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Models\\Questions.cs",
+              "RelativeToolTip": "E-Learning Quiz\\Models\\Questions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T07:18:39.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "E-Learning Quiz\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "E-Learning Quiz\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T08:34:40.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "DBText.cs",
               "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Data\\DBText.cs",
               "RelativeDocumentMoniker": "E-Learning Quiz\\Data\\DBText.cs",
               "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Data\\DBText.cs",
               "RelativeToolTip": "E-Learning Quiz\\Data\\DBText.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA4wBAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T07:24:29.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "E-Learning Quiz\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Controllers\\UsersController.cs",
               "RelativeToolTip": "E-Learning Quiz\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEMBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwEMBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T08:10:02.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Program.cs",
-              "RelativeDocumentMoniker": "E-Learning Quiz\\Program.cs",
-              "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Program.cs",
-              "RelativeToolTip": "E-Learning Quiz\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T08:06:08.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Models\\Users.cs",
               "RelativeDocumentMoniker": "E-Learning Quiz\\Models\\Users.cs",
@@ -238,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "PasswordService.cs",
               "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\Services\\PasswordService.cs",
               "RelativeDocumentMoniker": "E-Learning Quiz\\Services\\PasswordService.cs",
@@ -251,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\appsettings.json",
               "RelativeDocumentMoniker": "E-Learning Quiz\\appsettings.json",
@@ -264,8 +332,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "E-Learning Quiz",
+              "DocumentIndex": 18,
+              "Title": "E-Learning Quiz.csproj",
               "DocumentMoniker": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\E-Learning Quiz.csproj",
               "RelativeDocumentMoniker": "E-Learning Quiz\\E-Learning Quiz.csproj",
               "ToolTip": "C:\\Users\\asust\\source\\repos\\E-Learning Quiz\\E-Learning Quiz\\E-Learning Quiz.csproj",

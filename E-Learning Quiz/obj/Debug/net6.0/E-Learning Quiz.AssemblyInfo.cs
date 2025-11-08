@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("E-Learning Quiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1472cd7f4de6440f0c121e64e60b3f7a9f9a91b")]
 [assembly: System.Reflection.AssemblyProductAttribute("E-Learning Quiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("E-Learning Quiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
