@@ -173,7 +173,7 @@ CREATE DATABASE ElearningMiniDB;
 3️⃣ Atur Koneksi di appsettings.json
 
 "ConnectionStrings": {
-  "DefaultConnection": "Server=localhost;Database=ElearningMiniDB;Trusted_Connection=True;TrustServerCertificate=True;"
+  "DefaultConnection": "Server=localhost;Database=E_LEARNING_DB;Trusted_Connection=True;TrustServerCertificate=True;"
 }
 4️⃣ Restore & Jalankan API
 
