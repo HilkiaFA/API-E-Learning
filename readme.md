@@ -17,41 +17,7 @@ API ini menyediakan fitur untuk **manajemen kursus, modul, kuis, soal, jawaban, 
 dengan dukungan **autentikasi JWT** untuk performa tinggi.  
 Tersedia juga fitur **ekspor laporan ke PDF dan Excel** menggunakan **Rotativa** dan **ClosedXML**.
 
----
-
-## 🧱 Arsitektur Proyek
-
-E-LearningMini.API/
-│
-├── Controllers/
-│ ├── AuthController.cs
-│ ├── CourseController.cs
-│ ├── ModuleController.cs
-│ ├── QuizController.cs
-│ ├── QuestionController.cs
-│ ├── AnswerController.cs
-│ ├── ScoreController.cs
-│ └── DashboardController.cs
-│
-├── Models/
-│ ├── User.cs
-│ ├── Course.cs
-│ ├── Module.cs
-│ ├── Quiz.cs
-│ ├── Question.cs
-│ ├── Answer.cs
-│ └── Score.cs
-│
-├── Repositories/
-│ ├── Interfaces/
-│ └── Implementations/
-│
-├── StoredProcedures/
-│ ├── sp_GetCourseOverview.sql
-│ ├── sp_GetAverageScorePerStudent.sql
-│ └── sp_GetQuizDetail.sql
-│
-└── appsettings.json
+---\
 
 ## ⚙️ Teknologi yang Digunakan
 
